@@ -5,5 +5,5 @@ Integrantes:
   -Juliette Lizarazo
   -Valentina Colmenares
   -Juan Pablo Caicedo
- 
-Repositorio de los ejercicios grupales asignados.
+  
+ El correspondiente laboratorio consistió en la solución grupal de 8 ejercicios cortos de programación en Python.
